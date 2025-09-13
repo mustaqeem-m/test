@@ -1,66 +1,97 @@
-<!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm Muzammil</h1>
-<h3 align="center">🚀 Junior MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<!-- ================== ✅ Profile README ================== -->
+
+<h1 align="center">Hi, I'm **Muzammil** 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=your-username&color=0e75b6&style=flat-square" alt="Profile views">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/twitter/follow/yourtwitter?style=flat-square&color=1da1f2&logo=twitter&logoColor=white" alt="Twitter Follow">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAi8pHu/giphy.gif" width="250" alt="Coding GIF">
 </p>
 
 ---
 
-## ✨ About Me
-- 💻 Passionate about **MERN stack development** & building scalable web apps  
-- ⚡ Currently exploring **DSA + System Design** for interviews  
-- 🌱 Lifelong learner who enjoys solving real-world problems with code  
-- 🎯 Goal: Become a **Full-Stack Developer in an MNC**  
+### 🔭 What I do
+- Building **full-stack web apps** using **MERN** stack (MongoDB, Express, React, Node.js)  
+- Passionate about **clean UI/UX**, responsive interfaces & accessibility  
+- Strong focus on **algorithms & data structures** to ace coding challenges  
+- Learning **TypeScript**, **GraphQL**, and diving into **system design**
 
 ---
 
-## 🚀 Tech Stack
+### 🛠 My Toolbox
+
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" /><br/>
-  <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,express,mongodb,git,github,mysql,ts" alt="tech icons" height="60">
 </p>
 
 ---
 
-## 🌟 Featured Projects
-- 🍃 **Leaf Disease Detection (AI + MERN)** → Deep learning with ResNet50 + EfficientNetV2  
-- 📊 **Analytics Dashboard (Next.js)** → Real-time charts + dark/light mode + CSV/PDF export  
-- 🍔 **Food Delivery App (Swiggy/Zomato Clone)** → API-based restaurant listings + filtering  
-- 🌐 **Portfolio Website** → Animated React + Tailwind CSS with custom effects  
+### ✨ Featured Projects
 
-👉 [Check out my repositories »](https://github.com/your-username?tab=repositories)
+| 🚀 Project | Description | Stack |
+|------------|-------------|--------|
+| **Project Alpha** | A real-time chat app with video & file sharing | React, Node.js, WebSocket |
+| **Beta Dashboard** | Data-driven admin panel with charts & user auth | React, Express, Chart.js |
+| **E-Commerce Store** | Fully responsive store with payment integration | MERN, Stripe API |
+
+👉 [See more of my work ›](https://github.com/your-username?tab=repositories)
 
 ---
 
-## 📈 GitHub Stats
+### 🌟 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
-## 🎶 Fun Touch
+### 📖 Latest Blog Posts
+
+<!-- BLOG-POST-LIST: START -->
+<!--
+You could integrate auto-blog updates using something like actions or RSS scraper
+Example:
+| 📅 Date | 📝 Title |
+|---------|---------|
+| 2025-08-30 | [Understanding React Hooks Deeply](https://yourblog.com/react-hooks) |
+| 2025-08-22 | [MongoDB Aggregation: Tips & Tricks](https://yourblog.com/mongo-agg) |
+-->
+<!-- BLOG-POST-LIST: END -->
+
+---
+
+### 📫 Let’s Connect
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;Open+Source+Contributor+🌍;Always+Learning+New+Things+📚" alt="Typing SVG" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+> “Learning never exhausts the mind.” – Leonardo da Vinci
 
 ---
 
-<p align="center">✨ *“First, solve the problem. Then, write the code.” – John Johnson* ✨</p>
+
 
